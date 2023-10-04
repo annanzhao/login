@@ -1,0 +1,77 @@
+Arguments: 
+  C:\Program Files (x86)\git_node.js\node.exe C:\Users\HUAWEI\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add :blush:
+
+PATH: 
+  C:\Users\HUAWEI\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\HUAWEI\bin;D:\app\Scripts;D:\app;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files (x86)\dotnet;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn;C:\Program Files\Microsoft SQL Server\100\Tools\Binn;C:\Program Files\Microsoft SQL Server\100\DTS\Binn;D:\MATLAB\R2019b\runtime\win64;D:\MATLAB\R2019b\bin;D:\MATLAB\R2019b\polyspace\bin;D:\opencv\build\x64\vc15\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\dotnet;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;D:\Qt5.14.2\5.14.2\mingw73_64\bin;D:\Qt5.14.2\Tools\mingw730_64\bin;D:\Qt5.14.2\5.14.2\mingw73_32\bin;D:\Qt5.14.2\Tools\mingw730_32\bin;D:\opencv_4.1.1_build_qt\x64\mingw\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Java\jdk1.8.0_351\bin;D:\1\library-management;D:\1\Xshell;C:\Users\HUAWEI\AppData\Roaming\npm;C:\Program Files\Pandoc;C:\Program Files\Git\cmd;C:\Program Files (x86)\git_node.js;D:\app\anaconda;D:\app\anaconda\Library\mingw-w64\bin;D:\app\anaconda\Library\usr\bin;D:\app\anaconda\Library\bin;D:\app\anaconda\Scripts;D:\app\Scripts;D:\app;C:\Users\HUAWEI\AppData\Local\Microsoft\WindowsApps;D:\opencv\build\x64\vc15\bin;C:\Users\HUAWEI\.dotnet\tools;D:\pycharm\PyCharm 2020.2.5\bin;C:\Program Files\Bandizip;D:\1\Aria2;D:\app\pycharm\PyCharm Community Edition 2021.3.2\bin;D:\opencv_4.1.1_build_qt\x64\mingw\bin;D:\Qt5.14.2\5.14.2\mingw73_64\bin;D:\Qt5.14.2\Tools\mingw730_64\bin;D:\__easyHelper__\ffmpeg-20200716-d11cc74-win64-static\ffmpeg-20200716-d11cc74-win64-static\bin;C:\Users\HUAWEI\Downloads\Compressed\pandoc-2.2.1-windows-x86_64\pandoc-2.2.1;C:\MiKTeX\MiKTeX\miktex\bin\x64;D:\软件安装\微信小程序\微信web开发者工具\dll;path=D;C:\Program Files\Git\app\Scripts;D:\app;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files (x86)\dotnet;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn;C:\Program Files\Microsoft SQL Server\100\Tools\Binn;C:\Program Files\Microsoft SQL Server\100\DTS\Binn;D:\MATLAB\R2019b\runtime\win64;D:\MATLAB\R2019b\bin;D:\MATLAB\R2019b\polyspace\bin;D:\opencv\build\x64\vc15\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\dotnet;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;D:\Qt5.14.2\5.14.2\mingw73_64\bin;D:\Qt5.14.2\Tools\mingw730_64\bin;D:\Qt5.14.2\5.14.2\mingw73_32\bin;D:\Qt5.14.2\Tools\mingw730_32\bin;D:\opencv_4.1.1_build_qt\x64\mingw\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Java\jdk1.8.0_351\bin;D:\1\library-management;D:\1\Xshell;C:\Users\HUAWEI\AppData\Roaming\npm;C:\Program Files\Pandoc;C:\Program Files\Git\cmd;C:\Program Files (x86)\git_node.js;D:\Python";D:\app\IntelliJ IDEA 2022.2.3\bin;C:\Users\HUAWEI\AppData\Roaming\npm;D:\1\library-management\nodejs;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.18.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.npm.taobao.org/:blush:: Not found
+      at params.callback [as _callback] (C:\Users\HUAWEI\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66145:18)
+      at self.callback (C:\Users\HUAWEI\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140890:22)
+      at Request.emit (node:events:517:28)
+      at Request.<anonymous> (C:\Users\HUAWEI\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141862:10)
+      at Request.emit (node:events:517:28)
+      at IncomingMessage.<anonymous> (C:\Users\HUAWEI\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141784:12)
+      at Object.onceWrapper (node:events:631:28)
+      at IncomingMessage.emit (node:events:529:35)
+      at endReadableNT (node:internal/streams/readable:1368:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  {
+    "name": "simple-login-interface",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "dev": "webpack serve",
+      "build": "webpack --mode production"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pegasus-1998/simple-login-Interface.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/pegasus-1998/simple-login-Interface/issues"
+    },
+    "homepage": "https://github.com/pegasus-1998/simple-login-Interface#readme",
+    "devDependencies": {
+      "@babel/core": "^7.19.3",
+      "@babel/plugin-proposal-decorators": "^7.19.3",
+      "babel-loader": "^8.2.5",
+      "clean-webpack-plugin": "^4.0.0",
+      "css-loader": "^6.7.1",
+      "file-loader": "^6.2.0",
+      "html-loader": "^4.2.0",
+      "html-webpack-plugin": "^5.5.0",
+      "sass": "^1.55.0",
+      "sass-loader": "^13.1.0",
+      "style-loader": "^3.3.1",
+      "url-loader": "^4.1.1",
+      "webpack": "^5.74.0",
+      "webpack-cli": "^4.10.0",
+      "webpack-dev-server": "^4.11.1"
+    },
+    "dependencies": {
+      "jquery": "^3.6.1",
+      "qrcodejs2": "^0.0.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
